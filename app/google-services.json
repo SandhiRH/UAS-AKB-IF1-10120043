@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "130718849686",
-    "project_id": "uas-azhalia",
-    "storage_bucket": "uas-azhalia.appspot.com"
+    "project_number": "886388982231",
+    "project_id": "uas-10120043",
+    "storage_bucket": "uas-10120043.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:130718849686:android:e354fb678062e9becdc0b7",
+        "mobilesdk_app_id": "1:886388982231:android:29ea489f90540bc46a4b92",
         "android_client_info": {
           "package_name": "com.uas.notes"
         }
       },
       "oauth_client": [
         {
-          "client_id": "130718849686-7o2us8r8hmerie67v8hbr7re3pj4s5bo.apps.googleusercontent.com",
+          "client_id": "886388982231-a633vjs48qncse1b16jj9g0vdilijk6j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA0qi-CO4LPemQFgqsRVYq0YZkBbgJhQ44"
+          "current_key": "AIzaSyAuvPRkehDP6UzFfIVo17MdPta51hjEuu8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "130718849686-7o2us8r8hmerie67v8hbr7re3pj4s5bo.apps.googleusercontent.com",
+              "client_id": "886388982231-a633vjs48qncse1b16jj9g0vdilijk6j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
